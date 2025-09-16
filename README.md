@@ -1,0 +1,2 @@
+# Tag_click_openclose_V6
+一个基于Python和CustomTkinter开发的桌面应用程序，通过Selenium实现对Edge浏览器的自动化控制。
